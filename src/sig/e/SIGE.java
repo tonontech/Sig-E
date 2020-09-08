@@ -15,7 +15,8 @@ public class SIGE {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Teste Projeto SIG-E");
+        System.out.println("Anderson Tonon");
     }
     
 }
