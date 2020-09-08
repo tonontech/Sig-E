@@ -9,4 +9,8 @@ jdk:
   - openjdk7
   - openjdk6
   
+  
+script: ant build
+  
 sudo: false
+
