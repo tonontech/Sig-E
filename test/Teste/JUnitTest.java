@@ -9,8 +9,8 @@ package Teste;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
-import sig.e.SIGE;
 
+import sig.e.SIGE;
 
 /**
  *
