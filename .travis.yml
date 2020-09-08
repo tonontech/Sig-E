@@ -4,9 +4,4 @@ jdk:
  - openjdk8
  - openjdk11
 
-services:
-  - docker
-
-script: ant test -lib ./lib/junit-4.12.jar
-
 sudo: false

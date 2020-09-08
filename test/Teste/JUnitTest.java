@@ -6,8 +6,10 @@ package Teste;
  * and open the template in the editor.
  */
 
+
+
 import org.junit.Test;
-import static org.junit.Assert.*;
+import static junit.framework.Assert.assertTrue;
 import sig.e.SIGE;
 
 
