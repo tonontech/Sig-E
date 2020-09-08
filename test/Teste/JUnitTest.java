@@ -7,9 +7,8 @@ package Teste;
  */
 
 
-
+import static org.junit.Assert.*;
 import org.junit.Test;
-import static junit.framework.Assert.assertTrue;
 import sig.e.SIGE;
 
 
