@@ -19,12 +19,10 @@ public class JUnitTest {
     
     SIGE sig = new SIGE();
     
-    public JUnitTest() {
-    }
-    
+ 
     @Test
     public void CT1_1() {
-        assertTrue(11 == SIGE.Printar(10));
+        assertTrue(11 == sig.Printar(10));
 
     }
 }
