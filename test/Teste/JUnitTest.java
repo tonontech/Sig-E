@@ -11,7 +11,6 @@ import static org.junit.Assert.*;
 import sig.e.SIGE;
 
 
-
 /**
  *
  * @author Anderson Tonon
