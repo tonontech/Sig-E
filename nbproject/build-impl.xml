@@ -1400,6 +1400,7 @@ is divided into following sections:
     <target depends="init,deps-clean,-do-clean,-post-clean" description="Clean build products." name="clean"/>
     <target name="-check-call-dep">
         <property file="${call.built.properties}" prefix="already.built."/>
+		<property file="../build.properties">
         <condition property="should.call.dep">
             <and>
                 <not>
